@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="frmGiangVien/frmGiangVien.csproj" Id="97f8a0c9-5589-4148-88ea-7236bd7a814a" />
+  <Project Path="frmSinhVien/frmSinhVien.csproj" Id="0b0e39e4-d2dc-43fd-b35e-ea29ab7ae392" />
+  <Project Path="frmTBGiangVien/frmTBGiangVien.csproj" Id="aeccb85a-6bde-4ea4-b9ca-493bb5708be7" />
+  <Project Path="MyForm/frmTrungTam.csproj" Id="5d6d7219-34cd-4255-9d2f-1667dc48e4e8" />
+</Solution>
